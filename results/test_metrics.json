@@ -1,0 +1,19 @@
+{
+  "champion": "xgb__class_weight",
+  "selected_by": "PR-AUC out-of-fold pada data pengembangan",
+  "threshold_beta": 1.0,
+  "test_metrics": {
+    "threshold": 0.5240772366523743,
+    "accuracy": 0.7773333333333333,
+    "precision": 0.4971608832807571,
+    "recall": 0.5938206480783723,
+    "f1": 0.5412087912087913,
+    "roc_auc": 0.7782319376765724,
+    "pr_auc": 0.5539379293990909,
+    "tn": 3876,
+    "fp": 797,
+    "fn": 539,
+    "tp": 788
+  },
+  "note": "Data uji dipakai satu kali; jangan ubah model setelah melihat angka ini."
+}

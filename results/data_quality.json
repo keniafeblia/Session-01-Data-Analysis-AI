@@ -1,0 +1,14 @@
+{
+  "n_rows": 30000,
+  "n_columns": 24,
+  "n_missing_cells": 0,
+  "n_duplicate_rows": 35,
+  "class_counts": {
+    "0": 23364,
+    "1": 6636
+  },
+  "class_proportion": {
+    "0": 0.7788,
+    "1": 0.2212
+  }
+}
