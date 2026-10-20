@@ -1,6 +1,6 @@
 # Sesi 1 - Prediksi Gagal Bayar Kartu Kredit dengan Penanganan Ketidakseimbangan Kelas
 
-Tugas mata kuliah DEEPL, Informatics Practitioner Lecture Series.
+Tugas Studi Kasus dari Informatics Practitioner Lecture Series.
 Sesi 1: *Make Sense of Data with Analytics and AI* (Andria Arisal, BRIN), 5 Oktober 2026.
 
 ## Latar belakang
